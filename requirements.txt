@@ -1,7 +1,8 @@
 langchain
 langchain-community
 langchain-core
-openai
+huggingface_hub
+sentence-transformers
 pypdf
 tiktoken
 aiofiles
