@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = "Generative AI Project",
+    name = "Interview Question Generator",
     version= '0.0.0',
-    author="Boktiar Ahmed Bappy",
-    author_email="entbappy73@gmail.com",
+    author="Anmolpreet Singh",
+    author_email="singhanmol0984@gmail.com",
     packages= find_packages(),
     install_requires = []
 )
